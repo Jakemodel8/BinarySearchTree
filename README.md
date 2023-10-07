@@ -26,7 +26,7 @@ BinarySearchTree contains:
     - returns the kth-largest Node in the BST
 
 - getRoot:
-  - returns the root of the BST
+    - returns the root of the BST
 
 - getNodeCount:
- - returns the total count of nodes in BST
+    - returns the total count of nodes in BST
